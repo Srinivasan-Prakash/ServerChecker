@@ -1,7 +1,7 @@
 # ServerChecker
 A simple Server Checker project (using requests) in Python.
 
-Project Name: Server Checker | Version: 1.0: Base version by author | Designed by Prakash Srinivasan ( username: Prarvy | e-mail: prarvy@gmail.com )
+Project Name: Server Checker | Version: 1.0: Base version by author | Designed by Prakash Srinivasan ( GitHub username: Srinivasan-Prakash | Email: Prakash-Srinivasan@Outlook.com )
 
 This project is created as part of Certified Professional in Python Programming.
 
